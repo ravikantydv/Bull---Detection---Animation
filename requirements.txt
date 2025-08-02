@@ -1,0 +1,8 @@
+paddleocr
+easyocr
+ultralytics
+numpy
+opencv-python
+pandas
+roboflow
+paddlepaddle
