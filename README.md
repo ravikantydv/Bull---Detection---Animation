@@ -44,7 +44,6 @@ The goal is to build a **real-time bull detection system** using tools like Open
 
 ### 🔧 Step 1: Install Dependencies
 
-```bash
 pip install -r requirements.txt
 
 📦 Step 2: Download or Train Model
